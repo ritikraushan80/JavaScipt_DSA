@@ -42,5 +42,5 @@ function BinarySearch(arr, left, right, target){
     }
 }
 }
-const res = BinarySearch(arr, 0, arr.length - 1, 29)
-console.log("Rec Result :- ", res);
+const res = BinarySearch(arr, 0, arr.length - 1, 34)
+console.log("Rec Result :- ", res+1);
